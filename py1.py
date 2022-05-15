@@ -10,3 +10,4 @@ print(alist[-1])  # 输出最右边的元素
 print(alist[2], alist[-2])  # 输出左边第二个元素
 alist[0] = 88
 print(alist[0])  # 修改元素列表的值
+print('qwe')
